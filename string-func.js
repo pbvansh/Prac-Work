@@ -14,5 +14,6 @@ console.log(intro.charAt(10)); //a
 console.log(intro.charCodeAt(10));  // 97
 console.log(intro.slice(9,23)); // name is vansh
 console.log(intro.replace('name is','self')); // replace the string
+console.log(intro.split('i')); // [ '  Hey my name ', 's vansh prat', 'k.' ]
 
 
